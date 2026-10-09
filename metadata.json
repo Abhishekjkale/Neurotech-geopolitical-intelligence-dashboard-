@@ -1,0 +1,6 @@
+{
+  "name": "Neurotech Geopolitical Intelligence Dashboard",
+  "description": "Interactive geopolitical strategic assessment on neurotech diplomacy, brain-mapping chips, cognitive liberty, and international governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
